@@ -22,3 +22,6 @@ git remote add <название-переменной>
 
 
 git push <название_переменной> <название_ветки> - отправка версии на github 
+
+add git branch bloddo 
+git checkout bloddo
